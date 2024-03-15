@@ -1,0 +1,5 @@
+fastapi=0.110.*
+uvicorn=0.27.*
+torch=2.2.*
+pydantic=2.6.*
+nltk=3.8.*
